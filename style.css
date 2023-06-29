@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(25,219,200,1) 28%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+    margin-bottom: 3rem;
+    height: 100%;
+}
+
+#content {
+    max-width: 600px;
+}
+
+.title {
+    color: #ffffff;
+    font-family: "Pacifico";
+    font-weight: 700;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.list-group {
+    border-radius: 1rem;
+}
+
+.custom-font {
+    font-family: "Varela Round";
+}
+
+.green-time {
+    color: #77dd77;
+}
+
+.orange-time {
+    color: #ffca99;
+}
+
+.red-time {
+    color: #ff6961;
+}
+
+.avatar {
+    width: 29px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+
+
+
+
+
